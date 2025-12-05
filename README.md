@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">A Passionate Backend and Infra Engineer from India</h3>
 
-<h3 align="center">Mainframe Ops Prod Control | 🧑‍💻 B.Tech CSE @ Amity Unniversity | Wordpress Developer</h3>
+<h3 align="center">Mainframe Ops Prod Control | 🧑‍💻 B.Tech CSE @ Amity Unniversity | Learning Backend & Devops at Monkeys.com.co </h3>
 
 <p align="center">
   <a href="mailto:gautam7352@gmail.com"><img src="https://img.shields.io/badge/Gmail-Gautam Kumar-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
