@@ -13,7 +13,7 @@
 
 ---
 
-<a href="https://twitter.com/gautamk0508"><img src="https://img.shields.io/twitter/url/https/twitter.com/gautamk0508.svg?style=social&label=Follow%20%40gautamk0508" alt="Twitter" /></a>
+<!-- <a href="https://twitter.com/gautamk0508"><img src="https://img.shields.io/twitter/url/https/twitter.com/gautamk0508.svg?style=social&label=Follow%20%40gautamk0508" alt="Twitter" /></a> -->
 
 - 🔭 I’m currently working on [Monkeys Identity](https://github.com/the-monkeys/monkeys-identity)
 
@@ -29,8 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gautamk0508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamk0508" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-kumar-92b511b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-kumar-92b511b8/" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/gautamk0508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamk0508" height="30" width="40" /></a> -->
+<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-kumar-92b511b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-kumar-92b511b8/" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Have worked with:</h3>
