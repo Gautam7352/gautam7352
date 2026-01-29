@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Gautam%20Kumar&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 <h3 align="center">A Passionate Backend and Infra Engineer from India</h3>
-
-<h3 align="center">Mainframe Ops Prod Control | 🧑‍💻 B.Tech CSE @ Amity Unniversity | Backend & Devops @<a href="https://github.com/the-monkeys">Monkeys</a> </h3>
+/*
+<h3 align="center">Mainframe Ops Prod Control |*/ 🧑‍💻 B.Tech CSE @ Amity Unniversity | Backend & Devops @<a href="https://github.com/the-monkeys">Monkeys</a> </h3>
 
 <p align="center">
   <a href="mailto:gautam7352@gmail.com"><img src="https://img.shields.io/badge/Gmail-Gautam Kumar-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
